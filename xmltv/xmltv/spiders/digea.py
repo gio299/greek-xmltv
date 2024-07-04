@@ -9,7 +9,7 @@ from scrapy_splash import SplashRequest
 
 from ..items import XmltvItem
 
-START_URL = 'https://www.digea.gr/EPG/el'
+START_URL = 'https://www.digea.gr/el/tileoptikoi-stathmoi/ilektronikos-odigos-programmatos'
 preferred_areas = (
     'Nationwide',
     'E-Macedonia-Thrace-R-Z-1',
